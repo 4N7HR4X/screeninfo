@@ -15,10 +15,10 @@
         android:layout_height="wrap_content"
         android:textSize="42sp"/>
     <TextView
+        android:id="@+id/note_label"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:text="@string/note"
         android:textSize="12sp"/>
     <!--<TextView
         android:layout_width="match_parent"

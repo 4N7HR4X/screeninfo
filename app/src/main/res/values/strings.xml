@@ -5,6 +5,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="blurb">Want more features? Ask for Andras \nin the Android section. \u270C</string>
-    <string name="note">Note: The App Resolution takes the SoftButtons bar below into account.</string>
+    <string name="note">Note: App Resolution takes the SoftButtons bar below into account. The bar has a height of 48dp (%1$dpx)</string>
 
 </resources>

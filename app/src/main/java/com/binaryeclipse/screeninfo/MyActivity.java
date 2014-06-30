@@ -52,6 +52,9 @@ public class MyActivity extends Activity {
         TextView textView = (TextView) findViewById(R.id.dpi_label);
         textView.setTextSize(16);
         textView.setText(sb.toString());
+
+        TextView note = (TextView) findViewById(R.id.note_label);
+        note.setText(getString(R.string.note, (int) (48 * displayMetrics.scaledDensity)));
     }
 
 }
